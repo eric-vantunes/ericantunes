@@ -1,5 +1,5 @@
 #eric-vantunes
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eric Antunes</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eric Antunes</h1>
 <h3 align="center">Student of Systems Analysis and Development</h3>
 
 - 🔭 I’m currently student [CEUNSP]
